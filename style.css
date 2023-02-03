@@ -10,7 +10,11 @@ body {
 }
 .photo {
     height: 100px;
+    width: 100px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 50px;
+    cursor: pointer;
+
 }
